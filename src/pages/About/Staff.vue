@@ -126,7 +126,8 @@ export default {
         handle: "owent",
         role: ["bill"],
         face: "https://bulma.io/images/placeholders/1280x960.png",
-        icon: "https://bulma.io/images/placeholders/96x96.png"
+        icon:
+          "https://s.gravatar.com/avatar/8cf6ceec9c2f1a4ef6586a3bca7b0937?s=96"
       },
       {
         id: 2147483647,
