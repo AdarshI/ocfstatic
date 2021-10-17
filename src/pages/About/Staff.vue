@@ -125,7 +125,7 @@ export default {
         name: "Owen Thompson",
         handle: "owent",
         role: ["bill"],
-        face: "https://bulma.io/images/placeholders/1280x960.png",
+        face: "https://s.gravatar.com/avatar/8cf6ceec9c2f1a4ef6586a3bca7b0937?s=960",
         icon:
           "https://s.gravatar.com/avatar/8cf6ceec9c2f1a4ef6586a3bca7b0937?s=96"
       },
